@@ -27,13 +27,7 @@ public class PetSystemCheck extends PetNoAuthBasePage {
         get("/human/20.5").prettyPeek().
                 then().statusCode(200);
         //statusCode must be 404
-        /*
-        <apiResponse>
-        <message>null
-        for uri: http://petstore.swagger.io/v2/human/20.5</message>
-        <type>unknown</type>
-       </apiResponse>
-         */
+
     }
 
 

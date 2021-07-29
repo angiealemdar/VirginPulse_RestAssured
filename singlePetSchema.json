@@ -1,0 +1,18 @@
+{
+  "id": 60,
+  "category": {
+    "id": 1,
+    "name": "dogs"
+  },
+  "name": "boncuk",
+  "photoUrls": [
+    "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/52469359/1/?bust=1627236964&width=300"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "goodboy"
+    }
+  ],
+  "status": "adopted"
+}
